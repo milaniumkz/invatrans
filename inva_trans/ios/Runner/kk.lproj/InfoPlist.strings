@@ -1,0 +1,5 @@
+NSCameraUsageDescription = "Фото жүктеп салынуда";
+NSPhotoLibraryUsageDescription = "Фото жүктеп салынуда";
+NSLocationWhenInUseUsageDescription = "Орналасқан жерді анықтау";
+PermissionGroupNotification = "Хабарландырулар алу";
+NSCalendarsUsageDescription = "Туған күніңізді таңдау";

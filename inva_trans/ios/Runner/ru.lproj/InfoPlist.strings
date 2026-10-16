@@ -1,0 +1,5 @@
+NSCameraUsageDescription = "Загрузка фото";
+NSPhotoLibraryUsageDescription = "Загрузка фото";
+NSLocationWhenInUseUsageDescription = "Определение местоположения";
+PermissionGroupNotification = "Получение уведомлений";
+NSCalendarsUsageDescription = "Выбор даты рождения";
