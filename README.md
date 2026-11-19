@@ -1,5 +1,12 @@
 # InvaTrans
 
+## Android APK
+
+- [Пассажир и водитель — одно приложение](https://github.com/milaniumkz/invatrans/releases/download/v1.0.3-20261119/InvaTrans-1.0.3-passenger-driver-release.apk). Роль выбирается внутри приложения.
+- [Административное приложение](https://github.com/milaniumkz/invatrans/releases/download/v1.0.3-20261119/InvaTrans-Admin-1.0.3-release.apk). Отдельный Android package, вход по учётной записи Firebase.
+
+Обе сборки release, версия 1.0.3 (104), с отдельной тестовой подписью. Это тестовые сборки, а не подтверждение полной готовности серверных функций.
+
 Исходники Flutter-приложения пассажира/водителя (`inva_trans`) и административного приложения (`inva_trans_admin`). Firebase: Authentication, Firestore, Storage. Проверенная версия Flutter: **3.38.10**, Java 17; Android SDK 36 и NDK 28.2.13676358.
 
 ## Запуск
